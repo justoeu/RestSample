@@ -35,7 +35,7 @@ import com.wordnik.swagger.jaxrs.PATCH;
 public class ATMResource extends BaseResourceWS {
 
 	@Inject
-	private ATM atm;
+	privat ATM atm;
 	
 	@Inject
 	private ATMService atmService;
