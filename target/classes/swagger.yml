@@ -1,6 +1,0 @@
-version: 1.0.0
-basePath: RestSample/api
-resourcePackage: com.wordnik.swagger.jaxrs.json,com.wordnik.swagger.jaxrs.listing
-titleUi: List of ATM Services
-prettyPrint: true
-apiScan: true
